@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=NetMD1_23 Pin=R3-1
+Removed Pin From Net: NetName=NetMD1_23 Pin=SW?-1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Added Pin To Net: NetName=GND Pin=DS1-7
+Added Pin To Net: NetName=GND Pin=DS1-8
+Added Pin To Net: NetName=GND Pin=DS1-9
+Added Pin To Net: NetName=GND Pin=DS1-10
+Added Pin To Net: NetName=NetC2_1 Pin=MD1-20
+Added Pin To Net: NetName=NetC2_1 Pin=MD1-34
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=SW1-1
+Added Net: Name=NetR3_1
+Added Member To Class: ClassName=DesafioHardhare Member=Component C1 0.1uF
+Added Member To Class: ClassName=DesafioHardhare Member=Component C2 10uF
+Added Member To Class: ClassName=DesafioHardhare Member=Component C3 10uF 16V
+Added Member To Class: ClassName=DesafioHardhare Member=Component C4 4.7uF 25V
+Added Member To Class: ClassName=DesafioHardhare Member=Component C5 680uF 50V
+Added Member To Class: ClassName=DesafioHardhare Member=Component C6 220uF 16V
+Added Member To Class: ClassName=DesafioHardhare Member=Component C7 0.1uF
+Added Member To Class: ClassName=DesafioHardhare Member=Component D1 1N4007
+Added Member To Class: ClassName=DesafioHardhare Member=Component D2 PMEG3050EP
+Added Member To Class: ClassName=DesafioHardhare Member=Component DS1 EA DIP162-DHNLED
+Added Member To Class: ClassName=DesafioHardhare Member=Component L1 33uH 3.7A
+Added Member To Class: ClassName=DesafioHardhare Member=Component MD1 ESP32-WROOM-32D
+Added Member To Class: ClassName=DesafioHardhare Member=Component Motor S2B-PH-K-S(LF)(SN)
+Added Member To Class: ClassName=DesafioHardhare Member=Component Power Supply S2B-PH-K-S(LF)(SN)
+Added Member To Class: ClassName=DesafioHardhare Member=Component Q1 IPD60R1K5CEAUMA1
+Added Member To Class: ClassName=DesafioHardhare Member=Component Q2 PC817
+Added Member To Class: ClassName=DesafioHardhare Member=Component Q3 MMBT5550LT1G
+Added Member To Class: ClassName=DesafioHardhare Member=Component R1 10K
+Added Member To Class: ClassName=DesafioHardhare Member=Component R2 220R
+Added Member To Class: ClassName=DesafioHardhare Member=Component R3 220R
+Added Member To Class: ClassName=DesafioHardhare Member=Component R4 3296Y-1-103LF
+Added Member To Class: ClassName=DesafioHardhare Member=Component SW1 B3S-1000P
+Added Member To Class: ClassName=DesafioHardhare Member=Component U1 LM1117-3.3
+Added Member To Class: ClassName=DesafioHardhare Member=Component U2 LM2596T-5.0/NOPB
+Added Member To Class: ClassName=DesafioHardhare Member=Component U3 PCF8574T/3,518

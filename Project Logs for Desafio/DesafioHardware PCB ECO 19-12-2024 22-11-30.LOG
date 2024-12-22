@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=MD1-20
+Removed Pin From Net: NetName=NetC2_1 Pin=MD1-34
+Change Component Designator: OldDesignator=Supply NewDesignator=Power Supply
+Added Pin To Net: NetName=GND Pin=MD1-20
+Added Pin To Net: NetName=GND Pin=MD1-34

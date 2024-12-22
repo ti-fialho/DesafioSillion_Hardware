@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetMD1_23 Pin=R3-1
+Removed Pin From Net: NetName=NetMD1_23 Pin=SW?-1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Added Pin To Net: NetName=GND Pin=DS1-7
+Added Pin To Net: NetName=GND Pin=DS1-8
+Added Pin To Net: NetName=GND Pin=DS1-9
+Added Pin To Net: NetName=GND Pin=DS1-10
+Added Pin To Net: NetName=NetC2_1 Pin=MD1-20
+Added Pin To Net: NetName=NetC2_1 Pin=MD1-34
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=SW1-1
+Added Net: Name=NetR3_1
+Added Member To Class: ClassName=DesafioHardhare Member=Component SW1 B3S-1000P

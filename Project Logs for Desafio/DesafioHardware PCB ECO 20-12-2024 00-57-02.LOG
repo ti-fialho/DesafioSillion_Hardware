@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=3.3V Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=5V Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Change Component Footprint: Designator=C1 Old Footprint=FP-GRM033-0_03-MFG New Footprint=CAPC1210(3225)170_M
+Change Component Footprint: Designator=C7 Old Footprint=FP-GRM033-0_03-MFG New Footprint=CAPC1210(3225)170_M
+Change Component Comment : Designator=C1 Old Comment=0.1uF New Comment=CAP 100nF
+Change Component Comment : Designator=C7 Old Comment=0.1uF New Comment=CAP 100nF
+Change Managed Component Library Link : Designator=C1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=FABCD1CC-39F3-471A-AA75-7A6421E1812F New ItemGUID=0FC41180-737F-4DA3-999F-88228589890C Old RevisionGUID=985DD550-9279-4439-A640-AA0A71002D87 New RevisionGUID=55B5B0C1-398B-4FA0-831B-C02DDB8ECF95
+Change Managed Component Library Link : Designator=C7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=FABCD1CC-39F3-471A-AA75-7A6421E1812F New ItemGUID=0FC41180-737F-4DA3-999F-88228589890C Old RevisionGUID=985DD550-9279-4439-A640-AA0A71002D87 New RevisionGUID=55B5B0C1-398B-4FA0-831B-C02DDB8ECF95
+Change component parameters: Designator = "C1" ("C1"); Footprint = "FP-GRM033-0_03-MFG"; UniqueID = "\RFRJHJCU" ("\RFRJHJCU")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1.7 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "100 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "FP-GRM033-0_03-MFG"; UniqueID = "\QUZSYVGW" ("\QUZSYVGW")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1.7 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "100 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3.3V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=5V Pin=C7-2

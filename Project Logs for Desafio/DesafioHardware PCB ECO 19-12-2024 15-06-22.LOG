@@ -1,0 +1,20 @@
+Change Component Comment : Designator=Q1 Old Comment=IPD60R1K5CEAUMA1 New Comment=IPD60R1K5CE
+Added Component: Designator=HeatSink(FP-DA-T263-201E-TR-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-252"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Off Base"; Value = "0.48inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "25.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Solderable Feet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Natural Thermal Resistance"; Value = "8°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Cooled"; Value = "TO-263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "8°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "12.7mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_2 Pin=HeatSink-1
+Added Pin To Net: NetName=NetD1_2 Pin=HeatSink-2
+Added Member To Class: ClassName=DesafioHardhare Member=Component HeatSink DA-T263-201E-TR

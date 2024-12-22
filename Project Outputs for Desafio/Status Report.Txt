@@ -1,0 +1,36 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Desafio.PrjPcb]
+   Generated File[DesafioHardware.GTO]
+   Generated File[DesafioHardware.GTP]
+   Generated File[DesafioHardware.GTS]
+   Generated File[DesafioHardware.GTL]
+   Generated File[DesafioHardware.GBL]
+   Generated File[DesafioHardware.GBS]
+   Generated File[DesafioHardware.GBP]
+   Generated File[DesafioHardware.GBO]
+   Generated File[DesafioHardware.GM1]
+   Generated File[DesafioHardware.GM5]
+   Generated File[DesafioHardware.GM13]
+   Generated File[DesafioHardware.GM15]
+   Generated File[DesafioHardware.GM16]
+   Generated File[DesafioHardware.GM20]
+   Generated File[DesafioHardware.GM21]
+   Generated File[DesafioHardware.GM23]
+   Generated File[DesafioHardware.GM24]
+   Generated File[DesafioHardware.GKO]
+   Generated File[DesafioHardware.GPT]
+   Generated File[DesafioHardware.GPB]
+   Generated File[DesafioHardware.1]
+   Generated File[DesafioHardware.GML]
+   Generated File[DesafioHardware.GD1]
+   Generated File[DesafioHardware.GG1]
+   Generated File[DesafioHardware.GM]
+   Generated File[DesafioHardware.EXTREP]
+   Generated File[DesafioHardware.REP]
+
+
+Files Generated   : 27
+Documents Printed : 0
+
+Finished Output Generation At 00:38:00 On 22/12/2024

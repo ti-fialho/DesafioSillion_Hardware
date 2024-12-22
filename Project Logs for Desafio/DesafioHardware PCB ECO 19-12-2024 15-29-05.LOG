@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=HeatSink NewDesignator=HeatSink 1
+Added Component: Designator=HeatSink 2(FP-FA-T220-38E-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Finish"; Value = "Anodized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "38.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Off Base"; Value = "0.984inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "41.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Bolt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Natural Thermal Resistance"; Value = "3.8°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Cooled"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "1.5°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "27g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "25mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=HeatSink 2-1
+Added Pin To Net: NetName=GND Pin=HeatSink 2-1
+Added Member To Class: ClassName=DesafioHardhare Member=Component HeatSink 2 FA-T220-38E
